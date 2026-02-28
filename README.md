@@ -167,7 +167,8 @@ Kakinada, Andhra Pradesh
 <div align="center">
 <img src="https://github.com/user-attachments/assets/72c85291-e713-4704-b7d6-d46ae85f8fdb"
  alt="Community Service Photo 1" width="30%">
-<img src="https://private-user-images.githubusercontent.com/147370133/534356780-ce2fd6fc-dbdf-4691-a34a-ad8e991fceed.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgxNDAwMTcsIm5iZiI6MTc2ODEzOTcxNywicGF0aCI6Ii8xNDczNzAxMzMvNTM0MzU2NzgwLWNlMmZkNmZjLWRiZGYtNDY5MS1hMzRhLWFkOGU5OTFmY2VlZC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExMVQxMzU1MTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03OTkxMjAyZTYyZDg1YmNjZTQ3ODQ2NzI1Y2E3MzY4YzY3ZTBlNGI0OGNkMjk5OTVkN2EwMmY3MzBhNTc1YmYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.X43rrNtUSca-qsofsSGzFQigkKEYiaqXmSn9uN-MF1I" alt="Community Service Photo 2" width="30%">
+<img src="https://github.com/user-attachments/assets/dd1150c6-3dcc-4af9-90b9-76991a331f6c" 
+ alt="Community Service Photo 2" width="30%">
 
 </div>
 
